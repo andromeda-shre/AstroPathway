@@ -2,7 +2,7 @@
 AstroPathway is an immersive 3D astronomy simulation that takes users on a captivating journey through the cosmos. With a focus on accurate celestial body motion and educational engagement, this project aims to inspire curiosity and foster a deeper understanding of the universe.
 
 # Key Features
-Realistic Celestial Motion: Witness the orbits, rotations, and interactions of celestial bodies such as planets, moons, asteroids, and comets. The simulation adheres to the principles of celestial mechanics, offering users an authentic astronomical experience.
+**Realistic Celestial Motion:** Witness the orbits, rotations, and interactions of celestial bodies such as planets, moons, asteroids, and comets. The simulation adheres to the principles of celestial mechanics, offering users an authentic astronomical experience.
 
 **Educational Exploration:** AstroPathway serves as a valuable educational tool. Informative tooltips, pop-up panels, and links to external resources provide users with insights into celestial objects, their properties, and the underlying astronomical concepts.
 
